@@ -1,0 +1,284 @@
+alexisbcook/titanic-tutorial,8615,,,25803
+kanncaa1/data-sciencetutorial-for-beginners,15953,Version,Beginner%Data Visualization%Exploratory Data Analysis,1115
+janiobachmann/credit-fraud-dealing-with-imbalanced-datasets,6000,Version,Data Visualization%Classification%Finance%Banking%Dimensionality Reduction,589
+alexisbcook/getting-started-with-kaggle,1668,Version,,4221
+kanncaa1/machine-learning-tutorial-for-beginners,4727,Version,Beginner%Classification,287
+sudalairajkumar/winning-solutions-of-kaggle-competitions,1590,Version,pandas%Beginner,188
+kanncaa1/deep-learning-tutorial-for-beginners,4187,Version,Beginner%Classification%Deep Learning%Neural Networks,236
+thebrownviking20/everything-you-can-do-with-a-time-series,2487,Version,Beginner%Time Series Analysis,158
+therealcyberlord/coronavirus-covid-19-visualization-prediction,6592,Version,Data Visualization%Exploratory Data Analysis%Health%Coronavirus%Healthcare,682
+shivamb/data-science-glossary-on-kaggle,1664,Version,Beginner%Advanced,219
+imdevskp/covid-19-analysis-visualization-comparisons,4344,Version,Health%Coronavirus%Diseases,353
+kanncaa1/feature-selection-and-data-visualization,2775,Version,Data Visualization%Classification%Feature Engineering%Healthcare,292
+dansbecker/explore-your-data,13198,Version,Learn,236
+kanncaa1/plotly-tutorial-for-beginners,2362,Version,pandas%Matplotlib%NumPy%Beginner%Data Visualization,139
+benhamner/python-data-visualizations,6560,Version,Beginner%Data Visualization,152
+ibtesama/getting-started-with-a-movie-recommendation-system,2576,Version,pandas%Matplotlib%NumPy%Beginner%Online Communities,165
+rtatman/getting-started-in-r-first-steps,11484,Version,Programming%Beginner,79
+rtatman/data-cleaning-challenge-handling-missing-values,16073,Version,Games%Daily Challenge,364
+vbmokin/data-science-for-tabular-data-advanced-techniques,561,Version,Beginner%Data Visualization%Exploratory Data Analysis%Classification%Feature Engineering,98
+maksimeren/covid-19-literature-clustering,1713,Version,pandas%Matplotlib%NumPy%Seaborn%Data Visualization,225
+kanncaa1/seaborn-tutorial-for-beginners,2577,Version,Data Visualization,177
+tentotheminus9/what-causes-heart-disease-explaining-the-model,1333,Version,Health%Random Forest%Binary Classification%Heart Conditions%Model Explainability,136
+janiobachmann/lending-club-risk-analysis-and-metrics,1756,Version,Beginner%Data Visualization%Exploratory Data Analysis%Classification%Finance,187
+ash316/ml-from-scratch-with-iris,1314,Version,,80
+fabiendaniel/customer-segmentation,2760,Version,Classification%Clustering%Marketing,60
+dansbecker/intro-to-dl-for-computer-vision,2309,Version,Learn,71
+burhanykiyakoglu/predicting-house-prices,1503,Version,Regression%Linear Regression,108
+ash316/novice-to-grandmaster,648,Version,Data Visualization%Exploratory Data Analysis%Survey Analysis,129
+jessemostipak/dive-into-dplyr-tutorial-1,64339,Version,Beginner%Exploratory Data Analysis%Data Cleaning%Tidyverse%dplyr,67
+kushal1996/customer-segmentation-k-means-analysis,1079,Version,Data Visualization%Exploratory Data Analysis%Clustering,68
+kashnitsky/topic-1-exploratory-data-analysis-with-pandas,2742,Version,Programming%Beginner%Exploratory Data Analysis%Learn,57
+faressayah/stock-market-analysis-prediction-using-lstm,3234,Version,Data Visualization%Investing%Finance%Time Series Analysis%LSTM,163
+joparga3/in-depth-skewed-data-classif-93-recall-acc-now,2182,Version,Finance%Crime,123
+kashnitsky/topic-9-part-1-time-series-analysis-in-python,1764,Version,Beginner%Feature Engineering%Learn,67
+colinmorris/hello-python-daily,3128,Version,Programming,181
+vishalyo990/prediction-of-quality-of-wine,1185,Version,Beginner%Data Visualization%Random Forest%SVM,82
+kanncaa1/time-series-prediction-tutorial-with-eda,1592,Version,Beginner%Data Visualization,72
+kanncaa1/statistical-learning-tutorial-for-beginners,1035,Version,GPU,69
+shrutimechlearn/step-by-step-diabetes-classification-knn-detailed,1372,Version,pandas%Matplotlib%NumPy%Seaborn%sklearn,105
+cdabakoglu/heart-disease-classifications-machine-learning,1896,Version,pandas%Matplotlib%NumPy%Seaborn%Beginner,107
+thebrownviking20/intro-to-recurrent-neural-networks-lstm-gru,1452,Version,Beginner%Neural Networks%LSTM,81
+hortonhearsafoo/fast-ai-v3-lesson-1,6533,Version,,36
+rounakbanik/movie-recommender-systems,3009,Version,Beginner%Arts and Entertainment%Internet%Movies and TV Shows%Recommender Systems,66
+ash316/terrorism-around-the-world,996,Version,Data Visualization%Geography,92
+residentmario/univariate-plotting-with-pandas,6486,Version,Data Visualization%Baseball,86
+dansbecker/rectified-linear-units-relu-in-deep-learning,321,Version,,55
+aruchomu/yolo-v3-object-detection-in-tensorflow,2865,Version,Beginner%Deep Learning%CNN%Computer Vision,98
+fabiendaniel/film-recommendation-engine,1644,Version,Arts and Entertainment%Data Cleaning%Movies and TV Shows%Recommender Systems%Advanced,53
+sudalairajkumar/getting-started-with-text-preprocessing,607,Version,pandas%NLTK,85
+fabiendaniel/predicting-flight-delays-tutorial,2013,Version,Beginner%Data Visualization%Exploratory Data Analysis,94
+summitkwan/tl-gan-demo,10788,Version,GAN,37
+rtatman/data-cleaning-challenge-scale-and-normalize-data,7235,Version,Games%Daily Challenge,249
+annavictoria/ml-friendly-public-datasets,730,Version,Classification%NLP%Computer Vision,63
+dansbecker/learning-materials-on-kaggle,480,Version,,125
+niharika41298/netflix-visualizations-recommendation-eda,637,Version,Beginner%Data Visualization%Exploratory Data Analysis%Deep Learning%Feature Engineering,124
+aakashnain/beating-everything-with-depthwise-convolution,1302,Version,Deep Learning%Advanced,66
+randylaosat/predicting-employee-kernelover,1242,Version,Business%Data Visualization%Exploratory Data Analysis%Finance%Law,188
+dansbecker/building-models-from-convolutions,1144,Version,Learn,12
+dgunning/cord-research-engine-search-and-similarity,673,Version,Beginner%Data Cleaning%NLP,65
+dansbecker/transfer-learning,2701,Version,Learn,83
+dansbecker/data-leakage,837,Version,,2
+jpmiller/creating-a-good-analytics-report,227,Version,,41
+paoloripamonti/twitter-sentiment-analysis,2103,Version,GPU%Classification%Deep Learning,58
+rtatman/sql-scavenger-hunt-handbook,1442,Version,Business%Daily Challenge%Bigquery,224
+gspmoreira/recommender-systems-in-python-101,2014,Version,pandas%NumPy%sklearn%SciPy%NLTK,48
+karnikakapoor/customer-segmentation-clustering,437,Version,pandas%Matplotlib%NumPy%Seaborn%Beginner,197
+lava18/all-that-you-need-to-know-about-the-android-market,1507,Version,,77
+laowingkin/netflix-movie-recommendation,1929,Version,pandas%Matplotlib%NumPy%Seaborn%Data Cleaning,38
+hely333/eda-regression,468,Version,Data Visualization%Exploratory Data Analysis%Health,97
+prashant111/a-guide-on-xgboost-hyperparameters-tuning,283,Version,Beginner,43
+residentmario/welcome-to-data-visualization,1702,Version,Data Visualization%Learn,38
+pierremegret/gensim-word2vec-tutorial,1224,Version,NLP%Text Data%Text Mining%spaCy,53
+kabure/predicting-credit-risk-model-pipeline,1356,Version,Business%Data Visualization%Exploratory Data Analysis%Feature Engineering%Finance,75
+rtatman/datasets-for-regression-analysis,604,Version,Earth Science,30
+dimarudov/data-analysis-using-sql,806,Version,Programming%Business,49
+shivamb/how-autoencoders-work-intro-and-usecases,574,Version,Deep Learning%Image Data,55
+lisphilar/covid-19-data-with-sir-model,1660,Version,Coronavirus%Time Series Analysis,250
+kanncaa1/recommendation-systems-tutorial,469,Version,Movies and TV Shows,22
+neelkudu28/covid-19-visualizations-predictions-forecasting,1055,Version,Data Visualization%Regression,190
+colinmorris/functions-and-getting-help-daily,2977,Version,,136
+dansbecker/running-kaggle-kernels-with-a-gpu,2188,Version,GPU,66
+xhlulu/cord-19-eda-parse-json-and-generate-clean-csv,600,Version,Beginner%Exploratory Data Analysis%Data Cleaning%Coronavirus,45
+michau96/covid-19-continents-in-relation-to-time,734,Version,Data Visualization%Exploratory Data Analysis%Data Cleaning%Coronavirus%Health Conditions,295
+sohier/tutorial-accessing-data-with-pandas,1604,Version,,79
+rtatman/welcome-to-data-science-in-r,2484,Version,,114
+goyalshalini93/car-price-prediction-linear-regression-rfe,1422,Version,Data Visualization%Exploratory Data Analysis%Data Cleaning%Linear Regression%Model Comparison,49
+fedi1996/covid-19-analysis-visualization-and-comparaisons,604,Version,Beginner%Data Visualization%Data Cleaning,167
+dansbecker/cross-validation,819,Version,Model Comparison,82
+dansbecker/learn-machine-learning,414,Version,,14
+dgomonov/data-exploration-on-nyc-airbnb,595,Version,pandas%Matplotlib%Seaborn%Beginner%Data Visualization,55
+residentmario/time-series-plotting-optional,1109,Version,,24
+dansbecker/pipelines,882,Version,,70
+mrisdal/gganimate,954,Version,,217
+ash316/let-s-play-cricket,637,Version,Beginner%Data Visualization%Exploratory Data Analysis%Cricket,70
+upadorprofzs/basic-visualization-techniques,96,Version,Data Visualization,158
+rajmehra03/flower-recognition-cnn-keras,1365,Version,GPU%Classification%Deep Learning%CNN%Image Data,44
+arjunjoshua/predicting-fraud-in-financial-payment-services,1212,Version,Data Visualization%Finance%Banking%Crime,56
+mhajabri/what-do-kagglers-say-about-data-science,211,Version,Beginner%Data Visualization%Exploratory Data Analysis%Classification,92
+janiobachmann/bank-marketing-campaign-opening-a-term-deposit,814,Version,Beginner%Data Visualization%Classification%Finance,84
+matleonard/baseline-model,259,Version,pandas%sklearn%Software%LightGBM,0
+upadorprofzs/eda-video-game-sales,320,Version,Data Visualization%Exploratory Data Analysis,97
+andresionek/geospatial-analysis-of-brazilian-e-commerce,491,Version,Data Visualization%Exploratory Data Analysis%Geospatial Analysis%Brazil,50
+itoeiji/deep-reinforcement-learning-on-stock-data,1900,Version,,47
+dansbecker/a-deeper-understanding-of-deep-learning,288,Version,Learn,16
+marcogdepinto/let-s-discover-more-about-the-olympic-games,382,Version,Beginner%Data Visualization%Exploratory Data Analysis%Sports,107
+arthurtok/feature-ranking-rfe-random-forest-linear-models,717,Version,Finance,43
+sudalairajkumar/where-do-people-learn-ml-ds,317,Version,Beginner%Politics,67
+shivamb/beginners-guide-to-text-generation-using-lstms,987,Version,Beginner%Deep Learning%Neural Networks%Text Data%LSTM,48
+amyjang/tensorflow-pneumonia-classification-on-x-rays,802,Version,TPU%Classification%Deep Learning%Health,51
+marcuswingen/eda-of-bookings-and-ml-to-predict-cancelations,668,Version,Data Visualization%Exploratory Data Analysis%Classification,62
+danielwolffram/topic-modeling-finding-related-articles,635,Version,Coronavirus%Text Mining%spaCy,42
+lavanyashukla01/pandas-numpy-python-cheatsheet,563,Version,Programming,30
+nitindatta/fifa-in-depth-analysis-with-linear-regression,342,Version,pandas%Matplotlib%NumPy%Seaborn%Beginner,56
+gargmanish/basic-machine-learning-with-cancer,716,Version,Healthcare,64
+freespirit08/time-series-for-beginners-with-arima,719,Version,,52
+pouryaayria/a-complete-ml-pipeline-tutorial-acu-86,484,Version,Beginner%Data Visualization%Classification%Feature Engineering,26
+codename007/a-very-extensive-kiva-exploratory-analysis,604,Version,Exploratory Data Analysis%Finance%Geography%Crowdfunding,166
+currie32/predicting-fraud-with-tensorflow,1441,Version,Finance%Crime,56
+nayansakhiya/heart-fail-analysis-and-quick-prediction,486,Version,Beginner%Exploratory Data Analysis%Plotly%XGBoost%Gradient Boosting,107
+m2skills/datasets-and-tutorial-kernels-for-beginners,231,Version,,36
+kanncaa1/rare-visualization-tools,387,Version,Beginner%Data Visualization%Exploratory Data Analysis,21
+residentmario/bivariate-plotting-with-pandas,3498,Version,Data Visualization,49
+kashnitsky/a1-demo-pandas-and-uci-adult-dataset,5089,Version,Beginner%Learn,7
+aashita/guide-to-animated-bubble-charts-using-plotly,414,Version,Data Visualization%Global,84
+ash316/ml-from-scratch-part-2,348,Version,Data Visualization%Model Comparison%Ensembling%Healthcare,45
+robikscube/tutorial-time-series-forecasting-with-xgboost,923,Version,XGBoost%Energy,39
+raoulma/ny-stock-price-prediction-rnn-lstm-gru,1826,Version,LSTM%RNN,48
+rtatman/sql-scavenger-hunt-day-1,3645,Version,Daily Challenge,308
+rajacsp/pandas-cheatsheet-125-exercises,570,Version,pandas,65
+janiobachmann/price-of-avocados-pattern-recognition-analysis,363,Version,Beginner%Data Visualization%Time Series Analysis%Food,61
+robikscube/time-series-forecasting-with-prophet,864,Version,pandas%Matplotlib%NumPy%Seaborn%Business,73
+hoshi7/goodreads-analysis-and-recommending-books,389,Version,Beginner%Exploratory Data Analysis%Clustering%Recommender Systems%Literature,59
+kanncaa1/does-alcohol-affect-success,516,Version,Data Visualization%Education,54
+residentmario/plotting-with-seaborn,2749,Version,Data Visualization%Learn,37
+khoongweihao/covid-19-novel-coronavirus-eda-forecasting-cases,775,Version,Data Visualization%Exploratory Data Analysis%Coronavirus%Healthcare%Global,187
+rtatman/dashboarding-with-notebooks-day-1,720,Version,,103
+rtatman/fun-beginner-friendly-datasets,326,Version,Beginner,22
+kanncaa1/visualization-bokeh-tutorial-part-1,415,Version,Data Visualization%Exploratory Data Analysis%Video Games%Internet,12
+rtatman/six-steps-to-more-professional-data-science-code,168,Version,,44
+janiobachmann/s-p-500-time-series-forecasting-with-prophet,596,Version,Beginner%Business%Data Visualization%Time Series Analysis,67
+prashant111/extensive-analysis-eda-fe-modelling,308,Version,Exploratory Data Analysis%Music%Data Cleaning%Feature Engineering,50
+arthurtok/decision-boundaries-visualised-via-python-plotly,519,Version,Data Visualization%Decision Tree,51
+madz2000/nlp-using-glove-embeddings-99-87-accuracy,427,Version,Data Visualization%NLP%Text Data,149
+kanncaa1/roc-curve-with-k-fold-cv,243,Version,Beginner%Data Visualization%Random Forest,28
+hellbuoy/online-retail-k-means-hierarchical-clustering,533,Version,Beginner%Clustering%K-Means,33
+janiobachmann/attrition-in-an-organization-why-workers-quit,456,Version,Beginner%Data Visualization%Exploratory Data Analysis%Classification,78
+jackcook/how-to-become-a-data-scientist,274,Version,Programming%Beginner%Data Visualization,49
+prashant111/lightgbm-classifier-in-python,219,Version,,38
+spscientist/student-performance-in-exams,652,Version,Standardized Testing,53
+emmarex/plant-disease-detection-using-keras,2904,Version,GPU%Deep Learning%CNN%Plants,95
+alexisbcook/getting-started-with-kaggle-competitions,218,Version,Beginner,138
+jessemostipak/getting-started-tpus-cassava-leaf-disease,1417,,TPU%Beginner%Deep Learning%Computer Vision,30
+victorambonati/unsupervised-anomaly-detection,895,Version,,35
+shivamb/netflix-shows-and-movies-exploratory-analysis,478,Version,,27
+kabure/extensive-usa-youtube-eda,294,Version,Beginner%Exploratory Data Analysis%Music%Feature Engineering%Internet,68
+prasadperera/the-boston-housing-dataset,1438,Version,,11
+parulpandey/wuhan-coronavirus-a-geographical-analysis,297,Version,Beginner%Data Visualization%Exploratory Data Analysis,70
+vprokopev/mean-likelihood-encodings-a-comprehensive-study,251,Version,Classification%Feature Engineering%Gradient Boosting,30
+janiobachmann/patient-charges-clustering-and-regression,314,Version,Health,59
+kashnitsky/topic-7-unsupervised-learning-pca-and-clustering,390,Version,Beginner%Clustering%PCA%Learn,17
+anasofiauzsoy/writing-hamilton-lyrics-with-tensorflow-r,477,Version,Deep Learning%NLP,22
+upadorprofzs/understand-your-data-airbnb-reservations,147,Version,Data Visualization%Exploratory Data Analysis,74
+shahules/zomato-complete-eda-and-lstm-model,449,Version,pandas%Matplotlib%NumPy%Seaborn%Beginner,77
+serkanpeldek/face-recognition-on-olivetti-dataset,1013,Version,pandas%Matplotlib%NumPy%Seaborn%sklearn,56
+kashnitsky/topic-3-decision-trees-and-knn,1014,Version,,8
+ngyptr/python-nltk-sentiment-analysis,1437,Version,Internet%Politics,37
+rtatman/the-5-day-regression-challenge,370,Version,Beginner%Daily Challenge,14
+isbhargav/guide-to-pytorch-learning-rate-scheduling,253,Version,Deep Learning,13
+matleonard/intro-to-nlp,815,Version,,2
+arthurtok/employee-attrition-via-ensemble-tree-based-methods,778,Version,Business,41
+kanncaa1/applying-text-mining,252,Version,Programming%NLP%Text Data%Text Mining,14
+arthurtok/principal-component-analysis-with-kmeans-visuals,884,Version,,62
+joshuaswords/netflix-data-visualization,289,Version,pandas%Matplotlib%NumPy%Seaborn%Business,103
+pavansanagapati/a-simple-cnn-model-beginner-guide,596,Version,Classification%Deep Learning%CNN%Neural Networks,44
+ash316/learn-pandas-with-pokemons,488,Version,Games%Video Games,36
+matleonard/categorical-encodings,155,Version,pandas%sklearn%LightGBM,1
+colinmorris/booleans-and-conditionals-daily,1599,Version,,57
+shubhamksingh/create-beautiful-notebooks-formatting-tutorial,243,Version,Beginner%Software,37
+yclaudel/recommendation-engine-with-networkx,183,Version,Recommender Systems,14
+madz2000/pneumonia-detection-using-cnn-92-6-accuracy,1018,Version,,82
+davidmezzetti/cord-19-analysis-with-sentence-embeddings,367,Version,Exploratory Data Analysis%NLP%Coronavirus,140
+aleksandradeis/how-to-get-upvotes-for-a-kernel-on-kaggle,53,Version,pandas%Matplotlib%NumPy%Seaborn%Data Visualization,128
+vincentlugat/pima-indians-diabetes-eda-prediction-0-906,608,Version,Data Visualization%Exploratory Data Analysis%Classification%Feature Engineering,42
+parulpandey/tracking-india-s-coronavirus-spread,424,Version,Data Visualization%Healthcare%India,70
+rtatman/download-a-csv-file-from-a-kernel,244,Version,Data Cleaning,35
+buddhiniw/breast-cancer-prediction,916,Version,Healthcare,29
+mobassir/mining-covid-19-scientific-papers,310,Version,,29
+rtatman/data-cleaning-challenge-parsing-dates,4770,Version,Daily Challenge,160
+amirrezaeian/time-series-data-analysis-using-lstm-tutorial,996,Version,Data Visualization%Deep Learning%Feature Engineering%LSTM,31
+namanmanchanda/heart-attack-eda-prediction-90-accuracy,334,Version,pandas%Matplotlib%NumPy%Seaborn%Data Visualization,109
+kashnitsky/topic-2-visual-data-analysis-in-python,903,Version,pandas%Matplotlib%NumPy%Seaborn%Beginner,7
+arthurtok/generation-unemployed-interactive-plotly-visuals,328,Version,,78
+prashant111/decision-tree-classifier-tutorial,639,Version,,19
+gpreda/credit-card-fraud-detection-predictive-models,866,Version,pandas%Matplotlib%NumPy%Seaborn%Data Visualization,24
+rohanrao/a-modern-time-series-tutorial,235,Version,Beginner%Time Series Analysis,41
+kralmachine/seaborn-tutorial-for-beginners,186,Version,pandas%Programming%Matplotlib%NumPy%Seaborn,61
+morrisb/what-does-your-smartphone-know-about-you,444,Version,Exploratory Data Analysis%Classification,34
+amelinvladislav/map-of-temperatures-and-analysis-of-global-warming,457,Version,Environment,23
+thebrownviking20/intermediate-visualization-tutorial-using-plotly,519,Version,pandas%Games%Data Visualization%Exploratory Data Analysis%Plotly,56
+rtatman/careercon-intro-to-apis,1224,Version,Programming%Beginner,28
+upadorprofzs/bayesian-learning-basics-tutorial,47,Version,,75
+ryanholbrook/create-your-first-submission,2745,,TPU,44
+prashant111/naive-bayes-classifier-in-python,571,Version,,25
+tanetboss/how-to-get-high-rating-on-play-store,380,Version,Beginner%Data Visualization%Exploratory Data Analysis,36
+neisha/heart-disease-prediction-using-logistic-regression,879,Version,Health%Logistic Regression%Heart Conditions,28
+nirajvermafcb/principal-component-analysis-explained,725,Version,,75
+kanncaa1/earthquake-animation-with-plotly,382,Version,pandas,10
+hellbuoy/carprice-prediction-mlr-rfe-vif,238,Version,pandas%Matplotlib%NumPy%Seaborn%Data Visualization,28
+vjchoudhary7/kmeans-clustering-in-customer-segmentation,725,Version,,35
+randylaosat/simple-exploratory-data-analysis-passnyc,363,Version,Beginner%Data Visualization%Exploratory Data Analysis%Education,83
+rtatman/manipulating-data-with-the-tidyverse,1244,Version,Tidyverse,59
+faressayah/predicting-heart-disease-using-machine-learning,701,Version,Data Visualization%Classification%Data Cleaning%Health%Feature Engineering,53
+sudhirnl7/linear-regression-tutorial,656,Version,pandas%Matplotlib%NumPy%Seaborn%Beginner,17
+shivamb/a-visual-and-insightful-journey-donorschoose,261,Version,Beginner%Data Visualization%Exploratory Data Analysis%Geospatial Analysis,92
+dansbecker/what-is-log-loss,80,Version,,24
+arunrk7/nlp-beginner-text-classification-using-lstm,336,Version,Beginner%Deep Learning%NLP,25
+airback/match-outcome-prediction-in-football,954,Version,,30
+ndrewgele/visualizing-pok-mon-stats-with-seaborn,380,Version,Beginner%Data Visualization%Biology%Video Games,58
+ruslankl/brain-tumor-detection-v1-0-cnn-vgg-16,1368,Version,Matplotlib%NumPy%Plotly%Keras%cv2,35
+serkanpeldek/face-detection-with-opencv,922,Version,Matplotlib%NumPy%cv2%Image Data%Computer Vision,46
+codename007/donorchoose-complete-eda-time-series-analysis,484,Version,Beginner%Exploratory Data Analysis%Time Series Analysis%Primary and Secondary Schools%Crowdfunding,104
+nschneider/gbm-vs-xgboost-vs-lightgbm,418,Version,XGBoost%Finance%Model Comparison%Gradient Boosting%Crime,31
+thiagopanini/e-commerce-sentiment-analysis-eda-viz-nlp,583,Version,pandas%Matplotlib%Seaborn%Business%Exploratory Data Analysis,71
+agostontorok/soccer-world-cup-2018-winner,708,Version,Games%Football,53
+colinmorris/lists-daily,1176,Version,Programming,76
+arthurtok/super-sized-we-mcdonald-s-nutritional-metrics,411,Version,Nutrition,68
+kratisaxena/stock-market-technical-indicators-visualization,506,Version,Data Visualization%Investing%Data Cleaning%Finance,22
+ryanholbrook/feature-engineering-for-house-prices,1811,,pandas%Matplotlib%NumPy%Seaborn,63
+robikscube/a-tale-of-4-kaggler-types-by-ide-use-2018-survey,196,Version,Data Visualization%Exploratory Data Analysis%Classification%Survey Analysis,106
+yashvi/vehicle-insurance-eda-and-boosting-models,255,Version,Exploratory Data Analysis%XGBoost%Random Forest%LightGBM,48
+bandiatindra/telecom-churn-prediction,848,Version,Business%Data Visualization%Random Forest%Logistic Regression%SVM,33
+parulpandey/breathe-india-covid-19-effect-on-pollution,378,Version,Data Visualization%Coronavirus%India%Pollution,38
+dansbecker/data-augmentation,1193,Version,Learn,6
+ajaymanwani/loan-approval-prediction,737,Version,Data Visualization%Exploratory Data Analysis%Classification,19
+sudalairajkumar/simple-exploration-notebook-kiva,300,Version,Social Issues and Advocacy,46
+ngyptr/lstm-sentiment-analysis-keras,1487,Version,Internet%Politics,87
+vbmokin/data-science-with-dl-nlp-advanced-techniques,72,Version,Beginner%Data Visualization%Exploratory Data Analysis%Deep Learning,16
+joshuaswords/awesome-eda-2021-happiness-population,273,Version,Matplotlib%Seaborn%Data Visualization%Exploratory Data Analysis%Statistical Analysis,121
+kralmachine/analyzing-the-heart-disease,323,Version,Beginner%Data Visualization%Data Cleaning,59
+paultimothymooney/how-models-work,1486,Version,Beginner,70
+kanncaa1/note-prediction-results-of-kernel-rank,37,Version,Religion and Belief Systems,36
+rounakbanik/ted-data-analysis,461,Version,Data Visualization%Arts and Entertainment%Education%Internet%Politics,45
+uzairrj/beg-tut-intel-image-classification-93-76-accur,912,Version,GPU%Matplotlib%NumPy%Beginner%TensorFlow,36
+prashant111/xgboost-k-fold-cv-feature-importance,124,Version,,19
+jchen2186/machine-learning-with-iris-dataset,1261,Version,,25
+vincee/intel-image-classification-cnn-keras,1055,Version,Arts and Entertainment,28
+saurav9786/recommender-system-using-amazon-reviews,616,Version,Recommender Systems%E-Commerce Services,40
+allunia/breast-cancer,438,Version,Data Visualization%Exploratory Data Analysis%Deep Learning%Image Data%Cancer,34
+selfishgene/analyzing-soccer-player-faces,232,Version,Data Visualization%Computer Vision%Football%Advanced,46
+shivamb/deep-exploration-of-gun-violence-in-us,371,Version,Data Visualization%Exploratory Data Analysis%Feature Engineering%Text Data,71
+gpreda/covid-19-vaccination-progress,383,Version,pandas%Matplotlib%Seaborn%Plotly%Public Health,69
+andresionek/what-makes-a-kaggler-valuable,181,Version,Data Visualization%Exploratory Data Analysis%Data Cleaning%Linear Regression%Advanced,67
+kashnitsky/topic-10-gradient-boosting,130,Version,Beginner%Classification%Regression%Gradient Boosting%Learn,6
+rtatman/machine-learning-with-xgboost-in-r,746,Version,,45
+nirajvermafcb/comparing-various-ml-models-roc-curve-comparison,599,Version,Model Comparison,49
+jagangupta/what-s-in-a-review-yelp-ratings-eda,442,Version,Beginner%Data Visualization%Exploratory Data Analysis%Online Communities%Geospatial Analysis,20
+rtatman/kerneld4769833fe,489,Version,,66
+farazrahman/telco-customer-churn-logisticregression,480,Version,Beginner%Exploratory Data Analysis%Logistic Regression,44
+elloaguedes/panorama-do-covid-19-no-brasil,320,Version,Data Visualization%Exploratory Data Analysis%Coronavirus%Brazil,75
+sudalairajkumar/exploration-to-quench-chennai-s-thirst,109,Version,pandas%Seaborn%Business%Plotly,46
+ilialar/hyperparameters-tunning-with-hyperopt,141,Version,Beginner%Optimization,13
+rtatman/getting-started-in-r-load-data-into-r,4288,Version,Beginner,56
+matleonard/feature-generation,151,Version,pandas%Matplotlib%NumPy,4
+nilanml/how-to-get-into-graduate-school,125,Version,Exploratory Data Analysis%Education%Regression%Linear Regression%Universities and Colleges,20
+zikazika/using-rnn-and-arima-to-predict-bitcoin-price,612,Version,,30
+stuarthallows/using-xgboost-with-scikit-learn,299,Version,,11
+residentmario/faceting-with-seaborn,1760,Version,,27
+bulentsiyah/learn-opencv-by-examples-with-python,337,Version,Exercise%Beginner%cv2%Image Data%Computer Vision,58
+gregoiredc/arrhythmia-on-ecg-classification-using-cnn,644,Version,,5
+shamalip/black-friday-data-exploration,286,Version,,29
+colinmorris/embedding-layers,356,Version,,35
+kabure/lending-club-insightful-financial-eda,348,Version,pandas%Matplotlib%Seaborn%Data Visualization%Exploratory Data Analysis,46
+matleonard/feature-selection,125,Version,pandas%sklearn%Sports%LightGBM,0
+kmalit/bank-customer-churn-prediction,905,Version,Business%Exploratory Data Analysis%Education%Classification%Model Comparison,15
+arturkiulian/coronawhy-org-team-980-people-join-slack,155,Version,,24
+jboysen/quick-tutorial-flatten-nested-json-in-pandas,978,Version,Programming,25
+erikbruin/airbnb-the-amsterdam-story-with-interactive-maps,267,Version,Data Visualization%Exploratory Data Analysis%Text Mining%Geospatial Analysis%Hotels and Accommodations,55
+thomaskonstantin/pfizer-vaccine-sentiment-and-time-series-analysis,218,Version,pandas%Matplotlib%NumPy%Seaborn%Data Visualization,61
+allunia/e-commerce-sales-forecast,422,Version,pandas%Matplotlib%NumPy%Seaborn%Feature Engineering,23
+justjun0321/way-to-google-get-a-job-in-goggle-word-cloud,246,Version,pandas%Programming%Matplotlib%NumPy%Seaborn,82
+myonin/bitcoin-price-prediction-by-arima,758,Version,,17
+kanncaa1/dangerous-bites,58,Version,Data Visualization,22
+thebrownviking20/intro-to-keras-with-breast-cancer-data-ann,431,Version,Beginner%Classification%Deep Learning%Healthcare,24
+
