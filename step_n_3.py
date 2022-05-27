@@ -51,6 +51,8 @@ class reader:
         urls = [a['href'] for div in divs for a in div.find_all('a',href=True)]
         versions_id = [url.split("scriptVersionId=")[-1] for url in urls if "scriptVersionId=" in url]
 
+        print(versions_id)
+
         if len(versions_id) >= 2:
             version_index = 1
             while versions_id:
@@ -90,6 +92,8 @@ def unit_run(input):
         r.close()
     else:
         r.close()
+
+# renokan/pppm-deberta-v3-large-additional-fold-s
 
 if __name__ == "__main__":
     import multiprocessing
