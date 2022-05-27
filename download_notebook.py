@@ -30,7 +30,8 @@ class Collector:
         self.driver.get(kaggle_url)
     
     def click(self):
-        self.driver.find_element_by_xpath('//*[@id="site-content"]/div[3]/div[6]/div[1]/div/button').click()
+        button = self.driver.find_element_by_xpath('//*[@id="site-content"]/div[3]/div[6]/div[1]/div/button')
+        self.driver.execute_script("arguments[0].click();",button)
         # collect the versions id
         soup = BeautifulSoup(self.driver.page_source,'html.parser')
         urls = [a['href'] for a in soup.find_all('a',href=True) if "scriptVersionId=" in a['href']]
@@ -39,9 +40,9 @@ class Collector:
         # collect the time 
         times = []
         for version in range(1,len(versions_id)+1):
-            self.driver.find_element_by_xpath(f'//*[@id="site-content"]/div[3]/div[6]/div[10]/div[1]/div[2]/div[2]/div/div[2]/ul/div[{version}]').click()
+            button = self.driver.find_element_by_xpath(f'//*[@id="site-content"]/div[3]/div[6]/div[10]/div[1]/div[2]/div[2]/div/div[2]/ul/div[{version}]')
+            self.driver.execute_script("arguments[0].click();",button)
             times.append(self.driver.find_element_by_xpath('//*[@id="site-content"]/div[3]/div[6]/div[10]/div[1]/div[1]/div[1]/span').text.split("•")[-1].strip())
-        print(times)
         times = list(map(lambda x:datetime.strptime(x,'%b %d, %Y, %I:%M %p'),times))
 
         # merge id with time
@@ -66,6 +67,7 @@ class Collector:
 # renokan/pppm-deberta-v3-large-additional-fold-s
 
 if __name__ == "__main__":
-    c = Collector(True)
+    # Set False if we want to open the chrome 
+    c = Collector(False)
     c.set_download_path('/home/lofowl/Desktop/kaggle_dataset/notebooks')
     c.download("renokan/pppm-deberta-v3-large-additional-fold-s",'May 22, 2022, 8:28 PM')
